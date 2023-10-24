@@ -149,6 +149,7 @@ h1 {
     align-items: center;
     line-height: 1.5em;
     font-size: 1.1em;
+    font-weight: 500;
     width: 30%;
     height: 200px;
     padding: 10px 0;
@@ -156,6 +157,9 @@ h1 {
 
 #div-1 p, #div-2  p {
     border-right: 1px solid #666;
+}
+
+p {
     padding-right: 20px;
 }
 
